@@ -1,0 +1,9 @@
+layout {
+  pane size=1 {
+    command "nvim"
+    args "backend/prod/vectorize_codebase.py"
+  }
+  pane {
+    command "bash"
+  }
+}
