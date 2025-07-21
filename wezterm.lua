@@ -1,0 +1,1 @@
+/Users/mjshome/dotfiles/wezterm.lua
